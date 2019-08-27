@@ -1,0 +1,11 @@
+#tech{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: .3%;
+    border-color: silver;
+}
+
+img{
+    width: 100%;
+}
