@@ -13,7 +13,6 @@ import Contact from './components/Contact';
 
 
 class App extends Component {
-
   render() {
     return (
       <Router>
@@ -27,7 +26,6 @@ class App extends Component {
             <Route path='/' exact component={Home} />
             <Route path='/About' exact component={About} />
             <Route path='/Contact' exact component={Contact} />
-           
             {/* footer */}
             <div className="row" id="footer">
               <div className='col-md-3'></div>
